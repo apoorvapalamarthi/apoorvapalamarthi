@@ -8,7 +8,7 @@
 
 💞️ I’m looking to collaborate on real-world projects, open-source contributions, and internship opportunities in software development
 
-📫 How to reach me: linkedin.com/in/apoorva-palamarthi
+📫 How to reach me: [www.linkedin.com/in/apoorva-palamarthi](http://www.linkedin.com/in/apoorva-palamarthi)
 
 😄 Pronouns: She/Her
 
