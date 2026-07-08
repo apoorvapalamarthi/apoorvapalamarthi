@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Apoorva Palamarthi</h1>
 
-<h3 align="center">AI/ML Engineer | Deep Learning Enthusiast | Software Developer</h3>
+<h3 align="center">AI/ML Engineer | AI  Enthusiast | Software Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+%26+Machine+Learning;Deep+Learning+Enthusiast;Software+Developer;600%2B+Problems+Solved+on+CodeChef;Building+AI-Powered+Solutions" alt="Typing SVG" />
